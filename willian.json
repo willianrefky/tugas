@@ -8,7 +8,7 @@
       "Ibukota": "Bandung",
       "International": "Spain",
       "Team": "Manchester United",
-      "Poster": "https://i.pinimg.com/originals/af/b8/0c/afb80ca0df6e4bfbb3826a3735138e44.jpg"
+      "Poster": "https://raw.githubusercontent.com/willianrefky/tugas/master/jabar.jpg"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "Ibukota": "Semarang",
       "International": "Sweden",
       "Team": "Manchester United",
-      "Poster": "https://1.bp.blogspot.com/-wZVjzhJrYc0/UmgpGX_N5-I/AAAAAAAADFI/mklbUfdi7nI/s1600/Loog-propinsi-jawa-tengah-transparent-background.png"
+      "Poster": "https://raw.githubusercontent.com/willianrefky/tugas/master/jateng.png"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "Ibukota": "Surabaya",
       "International": "Ivory Coast",
       "Team": "Manchester United",
-      "Poster": "http://1.bp.blogspot.com/-O_Wa_dyHxlg/TdujEdvirEI/AAAAAAAADrs/WSlK1QrAi8I/s1600/logo+Jawa+Timur.png"
+      "Poster": "https://raw.githubusercontent.com/willianrefky/tugas/master/jatim.png"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "Ibukota": "Yogyakarta",
       "International": "England",
       "Team": "Manchester United",
-      "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Coat_of_arms_of_Yogyakarta.svg/1200px-Coat_of_arms_of_Yogyakarta.svg.png"
+      "Poster": "https://raw.githubusercontent.com/willianrefky/tugas/master/jogja.png"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "Ibukota": "Serang",
       "International": "Argentina",
       "Team": "Manchester United",
-      "Poster": "https://4.bp.blogspot.com/-UG0QlNojmRQ/VTLHq5NnoZI/AAAAAAAAEzc/O7HqC5wUUgQ/s1600/Logo-Pemerintah-Propinsi-Banten.png"
+      "Poster": "https://raw.githubusercontent.com/willianrefky/tugas/master/banten.png"
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "Ibukota": "Banda Aceh",
       "International": "France",
       "Team": "Manchester United",
-      "Poster": "https://2.bp.blogspot.com/-1Ozhp7Qxf_4/VTLDGfDaUcI/AAAAAAAAEzI/iwjXPGXZ2gI/s1600/pemerintah-propinsi-aceh.png"
+      "Poster": "https://raw.githubusercontent.com/willianrefky/tugas/master/aceh.png"
     },
     {
       "id": 7,
@@ -68,7 +68,7 @@
       "Ibukota": "Jakarta",
       "International": "Chile",
       "Team": "Manchester United",
-      "Poster": "http://2.bp.blogspot.com/-qLVHR3QUBsw/UNnSzhEqo6I/AAAAAAAAIzE/rGOdt4NY-3g/s1600/LOGO+PROVINSI+DKI+JAKARTA.png"
+      "Poster": "https://raw.githubusercontent.com/willianrefky/tugas/master/jakarta.png"
     },
     {
       "id": 8,
@@ -78,7 +78,7 @@
       "Ibukota": "Denpasar",
       "International": "Spain",
       "Team": "Manchester United",
-      "Poster": "https://alfinurahmawati.files.wordpress.com/2014/03/logo-provinsi-bali.png"
+      "Poster": "https://raw.githubusercontent.com/willianrefky/tugas/master/bali.png"
     },
     {
       "id": 9,
@@ -88,7 +88,7 @@
       "Ibukota": "Manokwari",
       "International": "Belgium",
       "Team": "Manchester United",
-      "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Coat_of_arms_of_West_Papua.svg/2000px-Coat_of_arms_of_West_Papua.svg.png"
+      "Poster": "https://raw.githubusercontent.com/willianrefky/tugas/master/papuabarat.png"
     },
     {
       "id": 10,
@@ -98,7 +98,7 @@
       "Ibukota": "Jayapura",
       "International": "France",
       "Team": "Manchester United",
-      "Poster": "https://4.bp.blogspot.com/-ehwedNlzQ38/VxmmuOhNPqI/AAAAAAAAPPs/BO1m6zHE6c03XOyXC8UDZox6tG3pFO2qwCLcB/s1600/lambang-papua.gif"
+      "Poster": "https://raw.githubusercontent.com/willianrefky/tugas/master/lambang-papua.gif"
     }
   ]
 }
